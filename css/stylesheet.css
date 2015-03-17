@@ -1,6 +1,6 @@
 .logo{
 
-	float:left;
+	
 	top: 25px;
 	position: relative;
 }
@@ -8,6 +8,7 @@
 
 	left: 0px;
 	top: 5px;
+	
 
 	position: relative;
 }
@@ -111,13 +112,12 @@ margin-bottom: 10px;
 .bodytitle{
 
 	margin-top: 25px;
-	display: table;
+	width: ;
 	text-align: center;
 	position: relative;
-	left:-15px;
+	
 	font-family: "Modern 20";
-	background-color: white;
-	width: 1700px;
+	
 	
 	
 }
@@ -129,5 +129,5 @@ font-size: 2.5em;
 .bodytext{
 	font-size: 1.25em;
 	text-indent: 50px;
-	margin-right: 150px;
+	
 }
