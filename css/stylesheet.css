@@ -1,3 +1,11 @@
+
+@font-face{
+
+	font-family: calmfont;
+	src: url(audio-digial-design/fonts/KeepCalm-Medium.ttf);
+}
+
+
 .logo{
 
 	
@@ -114,14 +122,19 @@ margin-bottom: 30px;
 }
 .bodytitle{
 
-	margin-top: 60px;
-	width: ;
+	margin-top: 5px;
+	background-color: #E8E8E8;
 	text-align: center;
 	position: relative;
-	border:4px solid #606060;
-	font-family: "Modern 20";
-	width: auto;
-	background-color: #F0F0F0;
+	margin-right: 15px;
+	margin-left:-15px;
+	margin-bottom: -30px;
+	height: auto;
+	
+	font-family: "Times New Roman";
+	padding-top: 35px;
+	padding-bottom: 35px;
+	
 	
 	
 	
@@ -134,9 +147,10 @@ font-size: 2.5em;
 .bodytext{
 	font-size: 1.5em;
 	text-indent: 50px;
-	border: 4px solid #606060;
-	padding: 10px;
-	background-color: #F0F0F0;
+	margin-right: 20px;
+	margin-left: 20px;
+	padding-right: 20px;
+	font-family: "Sans",sans-serif;
 	text-align: center;
 
 }
@@ -148,6 +162,22 @@ font-size: 2.5em;
 }
 body {
 
+	
 	background-color: #CCCCCC;
+}
+.wholebody{
+
+	box-shadow: 0 0 15px #3D3D3D;
+	background-color: #F0F0F0;
+
+}
+.listofservices{
+
+	background-color: #E8E8E8;
+	padding: 10px;
+	margin-left: -15px;
+	text-align: left;
+
+
 }
 
