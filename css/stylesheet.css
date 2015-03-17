@@ -14,7 +14,7 @@
 .navbar{
 
 	font-size: 1.55em;
-	top:20px;
+	top:25px;
 	position: relative;
 	display:table;
 	width: 10000px;
@@ -25,6 +25,7 @@
 	text-align: center;
 	vertical-align: center;
 	font-family: "Modern 20", sans-serif;
+	margin-bottom: 15px;
 
 
 }
@@ -75,7 +76,7 @@ text-align: center;
 }
 .carousel-inner{
 display: table-cell;
-top:35px;
+top:0px;
 height:auto;
 width:752px;
 float: center;
@@ -83,13 +84,14 @@ text-align: center;
 vertical-align: center;
 background-color: #606060;
 border: 4px solid #606060;
+
 position: relative;
 
 
 }
 .carousel-indicators{
 
-top: 555px;
+top: 535px;
 
 
 }
@@ -98,10 +100,34 @@ top: 555px;
 position: relative;
 display: inline-block;
 right:0px;
+margin-bottom: 10px;
 
 
 }
 .carousel-caption{
 
-	font-family: "Modern 20", sans-serif
+	font-family: "Modern 20", sans-serif;
+}
+.bodytitle{
+
+	margin-top: 25px;
+	display: table;
+	text-align: center;
+	position: relative;
+	left:-15px;
+	font-family: "Modern 20";
+	background-color: white;
+	width: 1700px;
+	
+	
+}
+.bodytitle > h2{
+
+font-size: 2.5em;
+
+}
+.bodytext{
+	font-size: 1.25em;
+	text-indent: 50px;
+	margin-right: 150px;
 }
