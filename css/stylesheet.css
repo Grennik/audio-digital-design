@@ -3,6 +3,7 @@
 	
 	top: 25px;
 	position: relative;
+	margin-bottom: 25px;
 }
 .logo-side{
 
@@ -10,12 +11,13 @@
 	top: 5px;
 	
 
+
 	position: relative;
 }
 .navbar{
 
 	font-size: 1.55em;
-	top:25px;
+	top:5px;
 	position: relative;
 	display:table;
 	width: 10000px;
@@ -92,7 +94,8 @@ position: relative;
 }
 .carousel-indicators{
 
-top: 535px;
+top:565px;
+position: relative;
 
 
 }
@@ -101,7 +104,7 @@ top: 535px;
 position: relative;
 display: inline-block;
 right:0px;
-margin-bottom: 10px;
+margin-bottom: 30px;
 
 
 }
@@ -111,12 +114,14 @@ margin-bottom: 10px;
 }
 .bodytitle{
 
-	margin-top: 25px;
+	margin-top: 60px;
 	width: ;
 	text-align: center;
 	position: relative;
-	
+	border:4px solid #606060;
 	font-family: "Modern 20";
+	width: auto;
+	background-color: #F0F0F0;
 	
 	
 	
@@ -127,7 +132,22 @@ font-size: 2.5em;
 
 }
 .bodytext{
-	font-size: 1.25em;
+	font-size: 1.5em;
 	text-indent: 50px;
-	
+	border: 4px solid #606060;
+	padding: 10px;
+	background-color: #F0F0F0;
+	text-align: center;
+
 }
+.btn-default{
+	background-color: #606060;
+	font-style: bold;
+	color: white;
+	font-size: 1.125em;
+}
+body {
+
+	background-color: #CCCCCC;
+}
+
